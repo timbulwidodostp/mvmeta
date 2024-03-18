@@ -1,0 +1,5 @@
+v 3
+
+d Ian White's meta-analysis software
+
+p mvmeta: Multivariate random-effects meta-regression.
