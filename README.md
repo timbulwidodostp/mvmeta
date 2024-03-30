@@ -3,6 +3,8 @@ Multivariate random-effects meta-analysis and meta-regression Use mvmeta With ST
 
 Multivariate random-effects meta-analysis Use mvmeta With STATA 18
 
+https://www.youtube.com/watch?v=g6TK-5mJBhY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
